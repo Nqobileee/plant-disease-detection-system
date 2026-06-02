@@ -1,16 +1,6 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   K U R A V I S O R                                                          ║
-║   Offline AI-Powered Crop Disease Detection & Treatment Advisory             ║
-║   for Smallholder Farmers in Zimbabwe                                        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 **Research prototype** | **Area 8** — Empowering SMEs with 4IR and AI for Inclusive and Sustainable Growth  
 **Category:** Prototype Demonstration
 
